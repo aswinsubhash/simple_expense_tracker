@@ -56,6 +56,7 @@ class Chart extends StatelessWidget {
       child: Column(
         children: [
           Expanded(
+          
             child: Row(
               crossAxisAlignment: CrossAxisAlignment.end,
               children: [
